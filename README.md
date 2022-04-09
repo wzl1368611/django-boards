@@ -1,3 +1,3 @@
 # django-boards
 Djano Boards Application
-Django 实践练习
+### Django框架源码解析和实践
